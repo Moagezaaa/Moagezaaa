@@ -4,8 +4,9 @@
 
 ### � Contact & Social
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammednassermoageza@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammednassermoageza@gmail.com)  
 [![Location](https://img.shields.io/badge/Location-Cairo,_Egypt-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
 
 ### 🌐 Professional Profiles
 
