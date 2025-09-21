@@ -58,6 +58,13 @@
 
 ## 🤝 VOLUNTEER EXPERIENCE
 
+**ICPC USC** | 🎓 University Student Community  
+_Sep 2024 - Feb 2025_
+
+- Trained students for **competitive programming** using **ICPC-style problems**  
+- Guided practice on problem-solving strategies, algorithms, and time complexity optimization  
+- Organized mock contests and review sessions to improve performance in programming competitions  
+
 
 ### 👨‍🏫 Instructor/Coach
 
@@ -66,13 +73,6 @@ _Mar 2024 - Dec 2024_
 
 - Conducting sessions on **foundational programming concepts**, data structures, algorithms, and advanced techniques  
 - Supporting the development of other mentors and instructors through **training and teaching practice sessions**  
-
-**ICPC USC** | 🎓 University Student Community  
-_Sep 2024 - Feb 2025_
-
-- Trained students for **competitive programming** using **ICPC-style problems**  
-- Guided practice on problem-solving strategies, algorithms, and time complexity optimization  
-- Organized mock contests and review sessions to improve performance in programming competitions  
 
 
 ## 🎓 EDUCATION
