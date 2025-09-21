@@ -57,7 +57,7 @@
 ---
 
 ## 🤝 VOLUNTEER EXPERIENCE
-
+### 👨‍🏫 Instructor/Coach
 **ICPC USC** | 🎓 University Student Community  
 _Sep 2024 - Feb 2025_
 
