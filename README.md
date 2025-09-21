@@ -9,8 +9,8 @@
 
 ### 🌐 Professional Profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/hamza-hassanain-ha067](https://www.linkedin.com/in/mohammed-nasser-318620366))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/HamzaHassanain](https://github.com/Moagezaaa))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nasser-318620366)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moagezaaa)
 
 ### 💻 Competitive Programming
 
