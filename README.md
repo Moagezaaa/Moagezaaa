@@ -1,13 +1,11 @@
 # HI 👋, I am Mohammed Nasser
 
-## Software Engineer
+## Software Engineer & Competitive Programmer
 
 ### � Contact & Social
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mohammednassermoageza@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Cairo,_Egypt-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Cairo,+Egypt)
-
-
 
 ### 🌐 Professional Profiles
 
@@ -20,6 +18,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mohammed_Nasserr)
 [![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Mohammed_Nasser)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mohamed_nasser)
+[![Eolymp](https://img.shields.io/badge/Eolymp-FF4500?style=for-the-badge&logo=codeforces&logoColor=white)](https://eolymp.com/en)
 
 ---
 
@@ -56,6 +55,14 @@
 ![Data Structures](https://img.shields.io/badge/Data_Structures-4ECDC4?style=for-the-badge&logo=datastructures&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-45B7D1?style=for-the-badge&logo=algorithms&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-FFEAA7?style=for-the-badge&logo=cleancode&logoColor=black)
+
+---
+
+## 🏆 Competitive Programming & Problem Setting
+
+- Problem Setter & Tester at **[Eolymp](https://eolymp.com/en)**
+- Active in **Codeforces, LeetCode, AtCoder, CodeChef**
+- Experience in creating, testing, and editorializing competitive programming problems
 
 ---
 
